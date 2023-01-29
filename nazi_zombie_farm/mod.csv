@@ -1,0 +1,17 @@
+// Zombie Mode Stuff
+include,zombiemode
+include,zombiemode_dogs
+// Zombie Mode Strings
+localize,zombie
+// Mod Strings
+localize,mod
+stringtable,maps/mapsTable.csv
+// Edited Loadout For Zombie Heroes
+rawfile,maps\_loadout.gsc
+// Edited LastStand For Deep Water Like Sumpf
+rawfile,maps\_laststand.gsc
+// Edited For Developer_Script
+rawfile,maps\_debug.gsc
+// Menus
+menufile,ui/levels_farm.menu
+//menufile,ui/main_farm.menu

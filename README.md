@@ -1,0 +1,1 @@
+Move nazi_zombie_farm folder into your mods folder

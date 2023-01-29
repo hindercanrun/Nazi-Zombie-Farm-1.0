@@ -1,0 +1,12 @@
+clientscripts\createfx\nazi_zombie_farm_fx.csc
+clientscripts\nazi_zombie_farm.csc
+clientscripts\nazi_zombie_farm_amb.csc
+maps\_loadout.gsc
+maps\_zombiemode.gsc
+maps\_zombiemode_weapons.gsc
+maps\createart\nazi_zombie_farm_art.gsc
+maps\createfx\nazi_zombie_farm_fx.gsc
+maps\mapsTable.csv
+maps\nazi_zombie_farm.gsc
+mod.arena
+mod.csv
