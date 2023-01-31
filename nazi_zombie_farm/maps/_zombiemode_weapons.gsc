@@ -189,34 +189,34 @@ init_weapons()
 	add_zombie_weapon( "nambu", 								&"ZOMBIE_WEAPON_NAMBU_50", 					50, 	"vox_crappy",	8 );
 	add_zombie_weapon( "sw_357", 								&"ZOMBIE_WEAPON_SW357_100", 				100, 	"vox_357",		5 );
 	add_zombie_weapon( "zombie_sw_357", 						&"ZOMBIE_WEAPON_SW357_100", 				100, 	"vox_357",		5 );
-	add_zombie_weapon( "zombie_sw_357_upgraded", 				&"ZOMBIE_WEAPON_SW357_100", 				100, 	"vox_357",		5 );
+	//add_zombie_weapon( "zombie_sw_357_upgraded", 				&"ZOMBIE_WEAPON_SW357_100", 				100, 	"vox_357",		5 );
 	add_zombie_weapon( "tokarev", 								&"ZOMBIE_WEAPON_TOKAREV_50", 				50, 	"vox_crappy",	8 );
 	add_zombie_weapon( "walther", 								&"ZOMBIE_WEAPON_WALTHER_50", 				50, 	"vox_crappy",	8 );
 	add_zombie_weapon( "zombie_colt", 							&"ZOMBIE_WEAPON_ZOMBIECOLT_25", 			25, 	"vox_crappy",	8 );
-	add_zombie_weapon( "zombie_colt_upgraded", 					&"ZOMBIE_WEAPON_ZOMBIECOLT_25", 			25, 	"vox_crappy",	8 );
+	//add_zombie_weapon( "zombie_colt_upgraded", 					&"ZOMBIE_WEAPON_ZOMBIECOLT_25", 			25, 	"vox_crappy",	8 );
 
 	// Bolt Action                                      		
 	add_zombie_weapon( "kar98k", 								&"ZOMBIE_WEAPON_KAR98K_200", 				200,	"",				0);
 	add_zombie_weapon( "zombie_kar98k", 						&"ZOMBIE_WEAPON_KAR98K_200", 				200,	"",				0);
-	add_zombie_weapon( "zombie_kar98k_upgraded", 				&"ZOMBIE_WEAPON_KAR98K_200", 				200,	"",				0);
+	//add_zombie_weapon( "zombie_kar98k_upgraded", 				&"ZOMBIE_WEAPON_KAR98K_200", 				200,	"",				0);
 	add_zombie_weapon( "kar98k_bayonet", 						&"ZOMBIE_WEAPON_KAR98K_B_200", 				200,	"",				0);
 	add_zombie_weapon( "mosin_rifle", 							&"ZOMBIE_WEAPON_MOSIN_200", 				200,	"",				0); 
-	add_zombie_weapon( "mosin_rifle_bayonet", 					&"ZOMBIE_WEAPON_MOSIN_B_200", 				200,	"",				0 );
+	//add_zombie_weapon( "mosin_rifle_bayonet", 					&"ZOMBIE_WEAPON_MOSIN_B_200", 				200,	"",				0 );
 	add_zombie_weapon( "springfield", 							&"ZOMBIE_WEAPON_SPRINGFIELD_200", 			200,	"",				0 );
 	add_zombie_weapon( "zombie_springfield", 					&"ZOMBIE_WEAPON_SPRINGFIELD_200", 			200,	"",				0 );
 	add_zombie_weapon( "springfield_bayonet", 					&"ZOMBIE_WEAPON_SPRINGFIELD_B_200", 		200,	"",				0 );
 	add_zombie_weapon( "zombie_type99_rifle", 					&"ZOMBIE_WEAPON_TYPE99_200", 				200,	"",				0 );
-	add_zombie_weapon( "zombie_type99_rifle_upgraded", 			&"ZOMBIE_WEAPON_TYPE99_200", 				200,	"",				0 );
+	//add_zombie_weapon( "zombie_type99_rifle_upgraded", 			&"ZOMBIE_WEAPON_TYPE99_200", 				200,	"",				0 );
 	add_zombie_weapon( "type99_rifle_bayonet", 					&"ZOMBIE_WEAPON_TYPE99_B_200", 				200,	"",				0 );
 
 	// Semi Auto                                        		
 	add_zombie_weapon( "zombie_gewehr43", 						&"ZOMBIE_WEAPON_GEWEHR43_600", 				600,	"" ,			0 );
-	add_zombie_weapon( "zombie_gewehr43_upgraded", 				&"ZOMBIE_WEAPON_GEWEHR43_600", 				600,	"" ,			0 );
+	//add_zombie_weapon( "zombie_gewehr43_upgraded", 				&"ZOMBIE_WEAPON_GEWEHR43_600", 				600,	"" ,			0 );
 	add_zombie_weapon( "zombie_m1carbine", 						&"ZOMBIE_WEAPON_M1CARBINE_600",				600,	"" ,			0 );
-	add_zombie_weapon( "zombie_m1carbine_upgraded", 			&"ZOMBIE_WEAPON_M1CARBINE_600",				600,	"" ,			0 );
+	//add_zombie_weapon( "zombie_m1carbine_upgraded", 			&"ZOMBIE_WEAPON_M1CARBINE_600",				600,	"" ,			0 );
 	add_zombie_weapon( "m1carbine_bayonet", 					&"ZOMBIE_WEAPON_M1CARBINE_B_600", 			600,	"" ,			0 );
 	add_zombie_weapon( "zombie_m1garand", 						&"ZOMBIE_WEAPON_M1GARAND_600", 				600,	"" ,			0 );
-	add_zombie_weapon( "zombie_m1garand_upgraded", 				&"ZOMBIE_WEAPON_M1GARAND_600", 				600,	"" ,			0 );
+	//add_zombie_weapon( "zombie_m1garand_upgraded", 				&"ZOMBIE_WEAPON_M1GARAND_600", 				600,	"" ,			0 );
 	add_zombie_weapon( "m1garand_bayonet", 						&"ZOMBIE_WEAPON_M1GARAND_B_600", 			600,	"" ,			0 );
 	add_zombie_weapon( "svt40", 								&"ZOMBIE_WEAPON_SVT40_600", 				600,	"" ,			0 );
 
@@ -234,7 +234,7 @@ init_weapons()
 	add_zombie_weapon( "mosin_rifle_scoped_zombie", 			&"ZOMBIE_WEAPON_MOSIN_S_750", 				750,	"vox_ppsh",		5);
 	add_zombie_weapon( "mosin_rifle_scoped_bayonet_zombie", 	&"ZOMBIE_WEAPON_MOSIN_S_B_750", 			750,	"vox_ppsh",		5);
 	add_zombie_weapon( "ptrs41_zombie", 						&"ZOMBIE_WEAPON_PTRS41_750", 				750,	"vox_ppsh",		5);
-	add_zombie_weapon( "ptrs41_zombie_upgraded", 				&"ZOMBIE_WEAPON_PTRS41_750", 				750,	"vox_ppsh",		5);
+	//add_zombie_weapon( "ptrs41_zombie_upgraded", 				&"ZOMBIE_WEAPON_PTRS41_750", 				750,	"vox_ppsh",		5);
 	add_zombie_weapon( "springfield_scoped_zombie", 			&"ZOMBIE_WEAPON_SPRINGFIELD_S_750", 		750,	"vox_ppsh",		5);
 	add_zombie_weapon( "springfield_scoped_bayonet_zombie", 	&"ZOMBIE_WEAPON_SPRINGFIELD_S_B_750", 		750,	"vox_ppsh",		5);
 	add_zombie_weapon( "type99_rifle_scoped_zombie", 			&"ZOMBIE_WEAPON_TYPE99_S_750", 				750,	"vox_ppsh",		5);
@@ -242,40 +242,40 @@ init_weapons()
 
 	// Full Auto                                                                                	
 	add_zombie_weapon( "zombie_mp40", 							&"ZOMBIE_WEAPON_MP40_1000", 				1000,	"vox_mp40",		2 ); 
-	add_zombie_weapon( "zombie_mp40_upgraded", 					&"ZOMBIE_WEAPON_MP40_1000", 				1000,	"vox_mp40",		2 ); 
+	//add_zombie_weapon( "zombie_mp40_upgraded", 					&"ZOMBIE_WEAPON_MP40_1000", 				1000,	"vox_mp40",		2 ); 
 	add_zombie_weapon( "zombie_ppsh", 							&"ZOMBIE_WEAPON_PPSH_2000", 				2000,	"vox_ppsh",		5 );
-	add_zombie_weapon( "zombie_ppsh_upgraded", 					&"ZOMBIE_WEAPON_PPSH_2000", 				2000,	"vox_ppsh",		5 );
+	//add_zombie_weapon( "zombie_ppsh_upgraded", 					&"ZOMBIE_WEAPON_PPSH_2000", 				2000,	"vox_ppsh",		5 );
 	add_zombie_weapon( "zombie_stg44", 							&"ZOMBIE_WEAPON_STG44_1200", 				1200,	"vox_mg",		9 );
-	add_zombie_weapon( "zombie_stg44_upgraded", 				&"ZOMBIE_WEAPON_STG44_1200", 				1200,	"vox_mg",		9 );
+	//add_zombie_weapon( "zombie_stg44_upgraded", 				&"ZOMBIE_WEAPON_STG44_1200", 				1200,	"vox_mg",		9 );
 	add_zombie_weapon( "zombie_thompson", 						&"ZOMBIE_WEAPON_THOMPSON_1200", 			1200,	"",				0 );
-	add_zombie_weapon( "zombie_thompson_upgraded", 				&"ZOMBIE_WEAPON_THOMPSON_1200", 			1200,	"",				0 );
+	//add_zombie_weapon( "zombie_thompson_upgraded", 				&"ZOMBIE_WEAPON_THOMPSON_1200", 			1200,	"",				0 );
 	add_zombie_weapon( "zombie_type100_smg", 					&"ZOMBIE_WEAPON_TYPE100_1000", 				1000,	"",				0 );
-	add_zombie_weapon( "zombie_type100_smg_upgraded", 			&"ZOMBIE_WEAPON_TYPE100_1000", 				1000,	"",				0 );
+	//add_zombie_weapon( "zombie_type100_smg_upgraded", 			&"ZOMBIE_WEAPON_TYPE100_1000", 				1000,	"",				0 );
 
 	// Shotguns                                         	
 	add_zombie_weapon( "zombie_doublebarrel", 					&"ZOMBIE_WEAPON_DOUBLEBARREL_1200", 		1200,	"vox_shotgun", 6);
-	add_zombie_weapon( "zombie_doublebarrel_upgraded", 			&"ZOMBIE_WEAPON_DOUBLEBARREL_1200", 		1200,	"vox_shotgun", 6);
+	//add_zombie_weapon( "zombie_doublebarrel_upgraded", 			&"ZOMBIE_WEAPON_DOUBLEBARREL_1200", 		1200,	"vox_shotgun", 6);
 	add_zombie_weapon( "zombie_doublebarrel_sawed", 			&"ZOMBIE_WEAPON_DOUBLEBARREL_SAWED_1200", 	1200,	"vox_shotgun", 6);
-	add_zombie_weapon( "zombie_doublebarrel_sawed_upgraded",	&"ZOMBIE_WEAPON_DOUBLEBARREL_SAWED_1200", 	1200,	"vox_shotgun", 6);
+	//add_zombie_weapon( "zombie_doublebarrel_sawed_upgraded",	&"ZOMBIE_WEAPON_DOUBLEBARREL_SAWED_1200", 	1200,	"vox_shotgun", 6);
 	add_zombie_weapon( "zombie_shotgun", 						&"ZOMBIE_WEAPON_SHOTGUN_1500", 				1500,	"vox_shotgun", 6);
-	add_zombie_weapon( "zombie_shotgun_upgraded", 				&"ZOMBIE_WEAPON_SHOTGUN_1500", 				1500,	"vox_shotgun", 6);
+	//add_zombie_weapon( "zombie_shotgun_upgraded", 				&"ZOMBIE_WEAPON_SHOTGUN_1500", 				1500,	"vox_shotgun", 6);
 
 	// Heavy Machineguns                                	
 	add_zombie_weapon( "zombie_30cal", 							&"ZOMBIE_WEAPON_30CAL_3000", 				3000,	"vox_mg",		9 );
-	add_zombie_weapon( "zombie_30cal_upgraded", 				&"ZOMBIE_WEAPON_30CAL_3000", 				3000,	"vox_mg",		9 );
+	//add_zombie_weapon( "zombie_30cal_upgraded", 				&"ZOMBIE_WEAPON_30CAL_3000", 				3000,	"vox_mg",		9 );
 	add_zombie_weapon( "zombie_bar", 							&"ZOMBIE_WEAPON_BAR_1800", 					1800,	"vox_bar",		5 );
-	add_zombie_weapon( "zombie_bar_upgraded", 					&"ZOMBIE_WEAPON_BAR_1800", 					1800,	"vox_bar",		5 );
+	//add_zombie_weapon( "zombie_bar_upgraded", 					&"ZOMBIE_WEAPON_BAR_1800", 					1800,	"vox_bar",		5 );
 	add_zombie_weapon( "dp28", 									&"ZOMBIE_WEAPON_DP28_2250", 				2250,	"vox_mg" ,		9 );
 	add_zombie_weapon( "zombie_fg42", 							&"ZOMBIE_WEAPON_FG42_1500", 				1500,	"vox_mg" ,		9 ); 
-	add_zombie_weapon( "zombie_fg42_upgraded", 					&"ZOMBIE_WEAPON_FG42_1500", 				1500,	"vox_mg" ,		9 ); 
+	//add_zombie_weapon( "zombie_fg42_upgraded", 					&"ZOMBIE_WEAPON_FG42_1500", 				1500,	"vox_mg" ,		9 ); 
 	add_zombie_weapon( "fg42_scoped", 							&"ZOMBIE_WEAPON_FG42_S_1500", 				1500,	"vox_mg" ,		9 ); 
 	add_zombie_weapon( "zombie_mg42", 							&"ZOMBIE_WEAPON_MG42_3000", 				3000,	"vox_mg" ,		9 ); 
-	add_zombie_weapon( "zombie_mg42_upgraded", 					&"ZOMBIE_WEAPON_MG42_3000", 				3000,	"vox_mg" ,		9 );
+	//add_zombie_weapon( "zombie_mg42_upgraded", 					&"ZOMBIE_WEAPON_MG42_3000", 				3000,	"vox_mg" ,		9 );
 	add_zombie_weapon( "type99_lmg", 							&"ZOMBIE_WEAPON_TYPE99_LMG_1750", 			1750,	"vox_mg" ,		9 ); 
 
 	// Grenade Launcher                                 	
 	add_zombie_weapon( "m1garand_gl_zombie", 					&"ZOMBIE_WEAPON_M1GARAND_GL_1500", 			1500,	"",				0 );
-	add_zombie_weapon( "m1garand_gl_zombie_upgraded", 			&"ZOMBIE_WEAPON_M1GARAND_GL_1500", 			1500,	"",				0 );
+	//add_zombie_weapon( "m1garand_gl_zombie_upgraded", 			&"ZOMBIE_WEAPON_M1GARAND_GL_1500", 			1500,	"",				0 );
 	add_zombie_weapon( "mosin_launcher_zombie", 				&"ZOMBIE_WEAPON_MOSIN_GL_1200",				1200,	"",				0 );
 
 	// Bipods                               				
@@ -289,11 +289,11 @@ init_weapons()
 	// Rocket Launchers
 	add_zombie_weapon( "bazooka", 								&"ZOMBIE_WEAPON_BAZOOKA_2000", 				2000,	"",				0 ); 
 	add_zombie_weapon( "panzerschrek_zombie", 					&"ZOMBIE_WEAPON_PANZERSCHREK_2000", 		2000,	"vox_panzer",	5 ); 
-	add_zombie_weapon( "panzerschrek_zombie_upgraded", 			&"ZOMBIE_WEAPON_PANZERSCHREK_2000", 		2000,	"vox_panzer",	5 ); 
+	//add_zombie_weapon( "panzerschrek_zombie_upgraded", 			&"ZOMBIE_WEAPON_PANZERSCHREK_2000", 		2000,	"vox_panzer",	5 ); 
 
 	// Flamethrower                                     	
 	add_zombie_weapon( "m2_flamethrower_zombie", 				&"ZOMBIE_WEAPON_M2_FLAMETHROWER_3000", 		3000,	"vox_flame",	7);	
-	add_zombie_weapon( "m2_flamethrower_zombie_upgraded", 		&"ZOMBIE_WEAPON_M2_FLAMETHROWER_3000", 		3000,	"vox_flame",	7);	
+	//add_zombie_weapon( "m2_flamethrower_zombie_upgraded", 		&"ZOMBIE_WEAPON_M2_FLAMETHROWER_3000", 		3000,	"vox_flame",	7);	
 
 	// Special                                          	
 	add_zombie_weapon( "mine_bouncing_betty",					&"ZOMBIE_WEAPON_SATCHEL_2000",				2000,	"" );
@@ -301,9 +301,9 @@ init_weapons()
 	add_zombie_weapon( "satchel_charge", 						&"ZOMBIE_WEAPON_SATCHEL_2000", 				2000,	"vox_monkey",	3 );
 	add_zombie_weapon( "zombie_cymbal_monkey",					&"ZOMBIE_WEAPON_SATCHEL_2000", 				2000,	"vox_monkey",	3 );
 	add_zombie_weapon( "ray_gun", 								&"ZOMBIE_WEAPON_RAYGUN_10000", 				10000,	"vox_raygun",	6 );
-	add_zombie_weapon( "ray_gun_upgraded", 						&"ZOMBIE_WEAPON_RAYGUN_10000", 				10000,	"vox_raygun",	6 );
+	//add_zombie_weapon( "ray_gun_upgraded", 						&"ZOMBIE_WEAPON_RAYGUN_10000", 				10000,	"vox_raygun",	6 );
 	add_zombie_weapon( "tesla_gun",								&"ZOMBIE_BUY_TESLA", 						10,		"vox_tesla",	5 );
-	add_zombie_weapon( "tesla_gun_upgraded",					&"ZOMBIE_BUY_TESLA", 						10,		"vox_tesla",	5 );
+	//add_zombie_weapon( "tesla_gun_upgraded",					&"ZOMBIE_BUY_TESLA", 						10,		"vox_tesla",	5 );
 
 	if(level.script != "nazi_zombie_prototype")
 	{

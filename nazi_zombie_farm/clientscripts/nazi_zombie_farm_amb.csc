@@ -85,17 +85,17 @@ main()
 	
 	thread teleport_2d();
 	
-	thread pa_init(0);
-	thread pa_init(1);
-	thread pa_init(2);
-	thread pa_single_init();
+	//thread pa_init(0);
+	//thread pa_init(1);
+	//thread pa_init(2);
+	//thread pa_single_init();
 	
 	thread pole_fx_audio_init(0);
 	thread pole_fx_audio_init(1);
 	thread pole_fx_audio_init(2);
 	
 	thread homepad_loop();
-	thread power_audio_2d();
+	//thread power_audio_2d();
 	thread linkall_2d();
 }
 
@@ -403,7 +403,7 @@ teleportation_audio( pad ) // Plays warmup and cooldown audio for homepad and te
 
 // ***PA System***
 // Plays sounds off of PA structs strewn throughout the map
-
+/*
 pa_init( pad )
 {
 	pa_sys = getstructarray( "pa_system", "targetname" );
@@ -420,8 +420,8 @@ pa_single_init()
 	array_thread( pa_sys, ::pa_electric_trap, "bridge" );
 	array_thread( pa_sys, ::pa_electric_trap, "wuen" );
 	array_thread( pa_sys, ::pa_electric_trap, "warehouse" );
-	array_thread( pa_sys, ::pa_level_start );
-	array_thread( pa_sys, ::pa_power_on );
+	//array_thread( pa_sys, ::pa_level_start );
+	//array_thread( pa_sys, ::pa_power_on );
 }
 
 pa_countdown( pad )
@@ -495,6 +495,7 @@ pa_electric_trap( location )
 	}
 }
 
+
 pa_play_dialog( alias )
 {
 	if( !IsDefined( self.pa_is_speaking ) )
@@ -513,6 +514,7 @@ pa_play_dialog( alias )
 		self.pa_is_speaking = 0;
 	}
 }
+*/
 	
 teleport_2d() // Plays a 2d sound for a teleporting player 1.7 seconds after activating teleporter
 {
@@ -523,7 +525,7 @@ teleport_2d() // Plays a 2d sound for a teleporting player 1.7 seconds after act
 		playsound( 0, "teleport_2d_rear", (0,0,0) );
 	}
 }
-
+/*
 power_audio_2d()
 {
 	wait(2);
@@ -531,7 +533,7 @@ power_audio_2d()
 	level waittill ("pl1");
 	playsound( 0, "power_up_2d", (0,0,0) );
 }
-
+*/
 linkall_2d()
 {
 	level waittill( "pap1" );
@@ -578,7 +580,7 @@ pole_fx_audio( pad )
 		realwait(randomintrange(2,7));
 	}
 }
-
+/*
 pa_level_start()
 {
 	wait(2);
@@ -595,3 +597,4 @@ pa_power_on()
 	wait(1.2);
 	self pa_play_dialog( "pa_power_on" );
 }
+*/
