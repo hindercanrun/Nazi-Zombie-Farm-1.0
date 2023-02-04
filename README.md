@@ -9,10 +9,10 @@ Launch CoD WaW, go to `mods`, select `nazi_zombie_farm` and WaW will load the mo
 # HOW TO PLAY
 
 **SOLO:**
-Click `Solo` then click `Mission Select` then click `Nazi Zombies` then click `Nazi Zombie Farm`.
+Click `Solo` then click `Mission Select` then click `Nazi Zombies` then click `Nazi Zombie Farmhouse`.
 
 **COOP:**
-Click `Cooperation` then click `Private Match` then click `Change Map` then click `Nazi Zombie Farm` then click `Start Match`.
+Click `Cooperation` then click `Private Match` then click `Start Match`.
 
 # CREDITS
 
