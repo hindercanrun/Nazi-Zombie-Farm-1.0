@@ -1,6 +1,0 @@
-# Map Data Table,,,,,,,
-a0,b1,c2,d3,e4,f5,g6,h7,i8,j9
-maxnum_map,20
-#mapname,#allies characters,#axis characters,#mapname,#mapimage,#index,#description,#level order coop,#gametype,#mis_01
-mak,desert,desert,MENU_LEVEL_MAK,loadscreen_mak,2,MENU_LEVEL_DESC_MAK,0,cmp,0
-nazi_zombie_farm,desert,desert,Nazi Zombie Farm,mission_screen_nazi_zombie_farm,3,MOD_DESC,21,zom,17
