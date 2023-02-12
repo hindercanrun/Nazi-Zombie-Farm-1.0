@@ -1,13 +1,31 @@
 ## HOW TO INSTALL
 
 
-- Move the `nazi_zombie_farm` folder into `activision\CoDWaW\mods` or wherever your mods folder is.
+**PLUTONIUM:**
+
+
+- Move the `nazi_zombie_farm` folder into `Plutonium\storage\t4\mods`.
+
+
+**STEAM:**
+
+
+- Move the `nazi_zombie_farm` folder into `Activision\CoDWaW\mods`.
 
 
 ## HOW TO LOAD THE MOD
 
 
-- Launch CoD WaW, go to `mods`, select `nazi_zombie_farm` and WaW will load the mod.
+**PLUTONIUM:**
+
+
+- Simply launch Plutonium T4, then go to `mods`, select `nazi_zombie_farm` and the mod will load.
+
+
+**STEAM:**
+
+
+- Launch CoD WaW, go to `mods`, select `nazi_zombie_farm` and the mod will load.
 
 
 ## HOW TO PLAY
@@ -23,6 +41,9 @@
 
 
 - Click on `Online` then click on `Private Match` then click on `Start Match`.
+
+
+This method will be the same if your on Steam or Plutonium.
 
 
 ## CREDITS
