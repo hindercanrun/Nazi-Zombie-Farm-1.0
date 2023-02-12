@@ -16,4 +16,6 @@ Click on `Online` then click on `Private Match` then click on `Start Match`.
 
 # CREDITS
 
-hindercanrun - Map Maker
+- hindercanrun - Map Maker
+- Chex - Map Tester
+- Numan - Helped with scripting and general mapping support
