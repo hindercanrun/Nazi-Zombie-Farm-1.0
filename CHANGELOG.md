@@ -10,3 +10,4 @@
 - Removed the map image on the pause screen
 - Removed the perks powerup sound on map start
 - Removed the perks vibrating on map start
+- Updated some of the hintstrings
