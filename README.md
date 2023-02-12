@@ -43,7 +43,7 @@
 - Click on `Online` then click on `Private Match` then click on `Start Match`.
 
 
-This method will be the same if your on Steam or Plutonium.
+It does not matter if your own Steam or Plutonium, this method will be the same.
 
 
 ## CREDITS
@@ -52,6 +52,7 @@ This method will be the same if your on Steam or Plutonium.
 - hindercanrun - Map Maker
 - Chex - Map Tester
 - Numan - Helped with scripting and general mapping support
+- JB - Helped with editing the menus and strings
 
 
 ## Disclaimer
