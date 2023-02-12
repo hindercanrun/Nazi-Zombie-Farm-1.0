@@ -6,3 +6,7 @@
 - Removed the intro screen text.
 - Removed some unused code
 - Fixed up some of the menus
+- Changed how juggernog works
+- Removed the map image on the pause screen
+- Removed the perks powerup sound on map start
+- Removed the perks vibrating on map start
