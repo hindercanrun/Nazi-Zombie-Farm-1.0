@@ -13,3 +13,4 @@
 - Updated some of the hintstrings
 - Changed some of the zombie textures
 - Changed the zombie eye textures
+- Random character on map start
