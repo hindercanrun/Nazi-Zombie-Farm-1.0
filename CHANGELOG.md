@@ -16,3 +16,4 @@
 - Random character on map start
 - Fixed some issues with the menus
 - Removed some unused textures
+- Fixed zombies not spawning in the barn zone
