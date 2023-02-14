@@ -14,3 +14,5 @@
 - Changed some of the zombie textures
 - Changed the zombie eye textures
 - Random character on map start
+- Fixed some issues with the menus
+- Removed some unused textures
