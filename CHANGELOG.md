@@ -17,3 +17,6 @@
 - Fixed some issues with the menus
 - Removed some unused textures
 - Fixed zombies not spawning in the barn zone
+- Fixed zombies not spawning in the basement
+- Fixed zombies not spawning properly in the barn
+- Fixed some menu issues
