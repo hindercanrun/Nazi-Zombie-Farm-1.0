@@ -53,6 +53,7 @@ It does not matter if your own Steam or Plutonium, this method will be the same.
 - Chex - Map Tester
 - Numan - Helped with scripting and general mapping support
 - JB - Helped with editing the menus and strings
+- NAKSHATRA_12 - Helped with zones and character randomizing 
 
 
 ## Disclaimer
