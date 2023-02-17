@@ -21,3 +21,4 @@
 - Fixed zombies not spawning properly in the barn
 - Fixed some menu issues
 - Fixed some ingame menu issues
+- Fixed some of the menus
