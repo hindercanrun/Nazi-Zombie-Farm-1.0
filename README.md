@@ -64,6 +64,9 @@
 ## HOW TO PLAY
 
 
+It does not matter if your on Steam or Plutonium, this method will be the same.
+
+
 **SOLO:**
 
 
@@ -82,9 +85,6 @@
 ![image](https://user-images.githubusercontent.com/109132519/219605294-28c0d49f-2efe-4773-9f83-dd5572e13879.png)
 ![image](https://user-images.githubusercontent.com/109132519/219605366-dcd81fc6-c095-4eae-bd83-d6c3800907ae.png)
 ![image](https://user-images.githubusercontent.com/109132519/219605528-4885b67f-38ee-4aee-baac-d5660af57f72.png)
-
-
-It does not matter if your on Steam or Plutonium, this method will be the same.
 
 
 ## CREDITS
