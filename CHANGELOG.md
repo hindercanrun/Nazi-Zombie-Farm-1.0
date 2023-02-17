@@ -20,3 +20,4 @@
 - Fixed zombies not spawning in the basement
 - Fixed zombies not spawning properly in the barn
 - Fixed some menu issues
+- Fixed some ingame menu issues
