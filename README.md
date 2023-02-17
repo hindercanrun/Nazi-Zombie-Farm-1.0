@@ -1,3 +1,18 @@
+## GUIDES
+
+
+**PLUTONIUM**
+
+
+- Loading Mods: https://plutonium.pw/docs/modding/loading-mods/#t4
+
+
+**STEAM**
+
+
+- Loading Mods: https://steamcommunity.com/sharedfiles/filedetails/?id=113282307
+
+
 ## HOW TO INSTALL
 
 
@@ -51,7 +66,7 @@ It does not matter if your own Steam or Plutonium, this method will be the same.
 
 - hindercanrun - Map Maker
 - Chex - Map Tester
-- Numan - Helped with scripting and general mapping support
+- Numan - Helped with scripting, mapping and general support
 - JB - Helped with editing the menus and strings
 - NAKSHATRA_12 - Helped with zones and character randomizing
 
