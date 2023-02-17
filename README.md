@@ -95,7 +95,7 @@ It does not matter if your on Steam or Plutonium, this method will be the same.
 - Numan - Helped with scripting, mapping and general support
 - JB - Helped with editing the menus and strings
 - NAKSHATRA_12 - Helped with zones and character randomizing
-- MrJayden585 - Helped with changing the zombie animations
+- MrJayden585 - Helped with changing the zombie animations and some other things
 
 
 ## Disclaimer
@@ -105,3 +105,6 @@ This custom map is still a work in progress, there will be bugs.
 If you find any bugs report them to `hindercanrun` so they can
 be fixed before the map releases.
 
+## TEMP
+
+12:00 AM commit 60
