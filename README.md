@@ -95,6 +95,7 @@ It does not matter if your on Steam or Plutonium, this method will be the same.
 - Numan - Helped with scripting, mapping and general support
 - JB - Helped with editing the menus and strings
 - NAKSHATRA_12 - Helped with zones and character randomizing
+- MrJayden585 - Helped with changing the zombie animations
 
 
 ## Disclaimer
