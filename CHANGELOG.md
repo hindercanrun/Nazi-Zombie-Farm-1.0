@@ -23,3 +23,4 @@
 - Fixed some ingame menu issues
 - Fixed some of the menus
 - Removed some unused menu code
+- "Fixed" an issue with the basement spawners
