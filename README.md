@@ -105,6 +105,3 @@ This custom map is still a work in progress, there will be bugs.
 If you find any bugs report them to `hindercanrun` so they can
 be fixed before the map releases.
 
-## TEMP
-
-12:00 AM commit 60
