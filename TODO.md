@@ -6,3 +6,4 @@
 - Fix some menu bugs
 - Fix zombie spawning
 - Fix some scripting issues
+- Fix the basement zombie spawners

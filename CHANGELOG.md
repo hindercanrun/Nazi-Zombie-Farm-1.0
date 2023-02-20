@@ -25,3 +25,5 @@
 - Removed some unused menu code
 - "Fixed" an issue with the basement spawners
 - Removed some more unused code
+- Fixed the 2nd floor spawners
+- Changed the door way for the basement stairs
