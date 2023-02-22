@@ -27,3 +27,4 @@
 - Removed some more unused code
 - Fixed the 2nd floor spawners
 - Changed the door way for the basement stairs
+- Fixed some of the broken doors ( TEMP )
