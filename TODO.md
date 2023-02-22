@@ -7,4 +7,4 @@
 - Fix zombie spawning
 - Fix some scripting issues
 - Fix the basement zombie spawners
-- Fix the broken buyable blockers/doors
+- Fix the broken buyable blockers / doors
