@@ -8,3 +8,4 @@
 - Fix some scripting issues
 - Fix the basement zombie spawners
 - Fix the broken buyable blockers / doors
+- Remove unused menu code
