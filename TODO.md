@@ -9,3 +9,5 @@
 - Fix the basement zombie spawners
 - Fix the broken buyable blockers / doors
 - Remove unused menu code
+- Fix some gun names
+- Fix some broken hintstrings
