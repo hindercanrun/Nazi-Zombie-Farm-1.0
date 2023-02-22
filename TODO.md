@@ -11,3 +11,4 @@
 - Remove unused menu code
 - Fix some gun names
 - Fix some broken hintstrings
+- Fix some of the terrain
