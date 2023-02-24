@@ -29,3 +29,4 @@
 - Changed the door way for the basement stairs
 - Fixed some of the broken blockers / doors ( TEMP )
 - Cleaned up some unused menu code
+- Cleaned up some of the code
