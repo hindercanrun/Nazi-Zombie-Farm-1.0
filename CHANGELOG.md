@@ -30,3 +30,4 @@
 - Fixed some of the broken blockers / doors ( TEMP )
 - Cleaned up some unused menu code
 - Cleaned up some of the code
+- Updated the map
