@@ -12,3 +12,4 @@
 - Fix some gun names
 - Fix some broken hintstrings
 - Fix some of the terrain
+- Fix the glitched ingame options menu
