@@ -32,4 +32,4 @@
 - Cleaned up some of the code
 - Updated the map
 - Fixed an issue with Farm not being the first selected map when trying to play a private match
-- CLeaned up some menu code
+- Cleaned up some menu code
