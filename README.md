@@ -21,10 +21,10 @@
 - Click the `code` button then `click download zip`
 
 
-![image](https://user-images.githubusercontent.com/109132519/219603787-84cb445b-3c2d-4557-8381-a7f1ecfc4c80.png)
+![image](https://user-images.githubusercontent.com/109132519/221426974-42cd0b96-b3fc-40a5-9a64-b46e052e8911.png)
 
 
-![image](https://user-images.githubusercontent.com/109132519/219604108-9049c29e-909f-4bfc-825f-ee6da3a1e7fe.png)
+![image](https://user-images.githubusercontent.com/109132519/221427175-7fbf3890-9294-4e89-902e-e6e15a3ef6a2.png)
 
 
 ## HOW TO INSTALL
@@ -51,14 +51,19 @@
 - Simply launch Plutonium T4, then go to `mods`, select `nazi_zombie_farm` and the mod will load.
 
 
-![image](https://user-images.githubusercontent.com/109132519/219605955-ed1f7a87-8b23-4d4f-9514-8724e611a4fc.png)
-![image](https://user-images.githubusercontent.com/109132519/219606069-3fcc88a8-f6aa-4e60-b194-04f8bf07ee8c.png)
+![image](https://user-images.githubusercontent.com/109132519/221427400-6c14d9c4-b9b7-40e3-9f8c-a63d274781a2.png)
+
+![image](https://user-images.githubusercontent.com/109132519/221427444-859c8cd1-2222-41f4-9284-d74652efc693.png)
 
 
 **STEAM:**
 
 
-- Launch CoD WaW, go to `mods`, select `nazi_zombie_farm` and the mod will load.
+- Simply launch `Call of Duty: World at War`, go to `mods`, select `nazi_zombie_farm` and the mod will load.
+
+![image](https://user-images.githubusercontent.com/109132519/221427400-6c14d9c4-b9b7-40e3-9f8c-a63d274781a2.png)
+
+![image](https://user-images.githubusercontent.com/109132519/221427444-859c8cd1-2222-41f4-9284-d74652efc693.png)
 
 
 ## HOW TO PLAY
@@ -73,7 +78,7 @@ It does not matter if your on Steam or Plutonium, this method will be the same.
 - Click on `Solo`.
 
 
-![image](https://user-images.githubusercontent.com/109132519/219605206-52753128-e940-447d-a536-f756f21a2d91.png)
+![image](https://user-images.githubusercontent.com/109132519/221427573-011ff32e-e3c0-4b7a-b824-a6261be8273a.png)
 
 
 **COOP:**
@@ -82,9 +87,24 @@ It does not matter if your on Steam or Plutonium, this method will be the same.
 - Click on `Online` then click on `Private Match` then click on `Start Match`.
 
 
-![image](https://user-images.githubusercontent.com/109132519/219605294-28c0d49f-2efe-4773-9f83-dd5572e13879.png)
-![image](https://user-images.githubusercontent.com/109132519/219605366-dcd81fc6-c095-4eae-bd83-d6c3800907ae.png)
-![image](https://user-images.githubusercontent.com/109132519/219605528-4885b67f-38ee-4aee-baac-d5660af57f72.png)
+![image](https://user-images.githubusercontent.com/109132519/221427590-d67fb7b4-2f4c-48b7-92d7-b9274e770738.png)
+![image](https://user-images.githubusercontent.com/109132519/221427604-fadabffc-faa6-439b-9666-c4c024163165.png)
+![image](https://user-images.githubusercontent.com/109132519/221427632-85a377b8-711d-435a-9f65-0851d7d23b66.png)
+
+
+## HOW TO UNINSTALL THIS MAP
+
+
+**PLUTONIUM:**
+
+
+- Go to `Plutonium\storage\t4\mods` and delete the `nazi_zombie_farm` folder.
+
+
+**STEAM:**
+
+
+- Go to `Activision\CoDWaW\mods` and delete the `nazi_zombie_farm` folder.
 
 
 ## CREDITS
