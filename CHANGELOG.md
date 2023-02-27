@@ -33,3 +33,4 @@
 - Updated the map
 - Fixed an issue with Farm not being the first selected map when trying to play a private match
 - Cleaned up some menu code
+- Edited the tab thing
