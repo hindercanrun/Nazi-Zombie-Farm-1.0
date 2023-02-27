@@ -36,10 +36,16 @@
 - Move the `nazi_zombie_farm` folder into `Plutonium\storage\t4\mods`.
 
 
+![image](https://user-images.githubusercontent.com/109132519/221616228-2189949c-3a48-4705-86a7-92d01a31a70e.png)
+
+
 **STEAM:**
 
 
 - Move the `nazi_zombie_farm` folder into `Activision\CoDWaW\mods`.
+
+
+![image](https://user-images.githubusercontent.com/109132519/221616525-1e55eb4a-1f45-4a75-ac3d-a9127780cdfd.png)
 
 
 ## HOW TO LOAD THE MOD
