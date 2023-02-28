@@ -36,7 +36,7 @@
 - Move the `nazi_zombie_farm` folder into `Plutonium\storage\t4\mods`.
 
 
-![image](https://user-images.githubusercontent.com/109132519/221616228-2189949c-3a48-4705-86a7-92d01a31a70e.png)
+![image](https://user-images.githubusercontent.com/109132519/221906703-5838c503-80b9-4eeb-ada9-de7877e766c3.png)
 
 
 **STEAM:**
@@ -107,10 +107,16 @@ It does not matter if your on Steam or Plutonium, this method will be the same.
 - Go to `Plutonium\storage\t4\mods` and delete the `nazi_zombie_farm` folder.
 
 
+![image](https://user-images.githubusercontent.com/109132519/221910831-fd8b72ca-4da3-4fe5-8bc7-fa0e4653f57b.png)
+
+
 **STEAM:**
 
 
 - Go to `Activision\CoDWaW\mods` and delete the `nazi_zombie_farm` folder.
+
+
+![image](https://user-images.githubusercontent.com/109132519/221911335-bd73ced3-1dac-41d8-ba83-d39d0ef4cb66.png)
 
 
 ## CREDITS
