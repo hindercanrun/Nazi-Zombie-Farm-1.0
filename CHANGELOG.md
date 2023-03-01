@@ -33,4 +33,4 @@
 - Updated the map
 - Fixed an issue with Farm not being the first selected map when trying to play a private match
 - Cleaned up some menu code
-- Edited the tab thing
+- Removed the mission objectives title that would popup when you pressed `Tab`.
