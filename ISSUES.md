@@ -1,10 +1,11 @@
+
+
 # ISSUES
 
-- [x] Zombies spawn in the barn even when the doors shut
-- [x] Zombies can bug out upstairs
+
 - [ ] Character voice lines can bug out
 - [ ] Pause menu background becoming bugged when you clicked on GAME OPTIONS, SOUND and GRAPHICS
-- [ ] Some menus are unused or need fixing
+- [ ] Some menus are need fixing
 - [ ] Basement zombie spawners not fully working
 - [ ] Basement blocker / door not opening properly
 - [ ] Zombies can bug out if you stay up stairs for awhile. Screenshot is below.
