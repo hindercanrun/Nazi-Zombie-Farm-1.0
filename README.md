@@ -59,6 +59,7 @@
 
 ![image](https://user-images.githubusercontent.com/109132519/221427400-6c14d9c4-b9b7-40e3-9f8c-a63d274781a2.png)
 
+
 ![image](https://user-images.githubusercontent.com/109132519/221427444-859c8cd1-2222-41f4-9284-d74652efc693.png)
 
 
@@ -67,7 +68,9 @@
 
 - Simply launch `Call of Duty: World at War`, go to `mods`, select `nazi_zombie_farm` and the mod will load.
 
+
 ![image](https://user-images.githubusercontent.com/109132519/221427400-6c14d9c4-b9b7-40e3-9f8c-a63d274781a2.png)
+
 
 ![image](https://user-images.githubusercontent.com/109132519/221427444-859c8cd1-2222-41f4-9284-d74652efc693.png)
 
@@ -94,11 +97,15 @@ It does not matter if your on Steam or Plutonium, this method will be the same.
 
 
 ![image](https://user-images.githubusercontent.com/109132519/221427590-d67fb7b4-2f4c-48b7-92d7-b9274e770738.png)
+
+
 ![image](https://user-images.githubusercontent.com/109132519/221427604-fadabffc-faa6-439b-9666-c4c024163165.png)
+
+
 ![image](https://user-images.githubusercontent.com/109132519/221427632-85a377b8-711d-435a-9f65-0851d7d23b66.png)
 
 
-## HOW TO UNINSTALL THIS MAP
+## HOW TO UNINSTALL THE MAP
 
 
 **PLUTONIUM:**
