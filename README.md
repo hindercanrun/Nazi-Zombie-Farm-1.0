@@ -1,5 +1,12 @@
 
 
+# NOTICE
+
+
+- This is the old version of Nazi Zombies Farm, the new one is here:
+  https://github.com/hindercanrun/nz-farm
+
+
 ## GUIDES
 
 
